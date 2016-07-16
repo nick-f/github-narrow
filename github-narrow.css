@@ -33,4 +33,13 @@
 	.files .message {
 		display: none;
 	}
+
+	.reponav-item {
+		border-radius: 3px;
+		margin-bottom: 8px;
+	}
+
+	.reponav-item.selected {
+		border-color: #d26911 #e5e5e5 #e5e5e5 !important;
+	}
 }
