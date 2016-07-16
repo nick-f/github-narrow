@@ -10,6 +10,16 @@
 		padding-right: 18px !important;
 	}
 }
+@media (max-width: 840px) {
+	.org-sidebar {
+		float: left !important;
+		width: 100% !important;
+	}
+
+	.org-main {
+		width: 100% !important;
+	}
+}
 
 @media (max-width: 790px) {
 	.files .message {
