@@ -48,4 +48,8 @@
 		max-width: 100%;
 		overflow: scroll;
 	}
+
+	.profilecols .column {
+		width: 100% !important;
+	}
 }
