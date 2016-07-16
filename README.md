@@ -20,7 +20,3 @@ If you don't have one, here is one example called Stylish
 - [Stylish for Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
 - [Stylish for Opera](https://addons.opera.com/en/extensions/details/stylish/)
 - [Stylish for Safari](https://safari-extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45)
-
-## Known issues
-- Doesn't work for viewports narrower than around 800px
-	- GitHub appears to use user agent sniffing to determine whether to show the mobile version of the site or not so those styles aren't leveraged yet.
