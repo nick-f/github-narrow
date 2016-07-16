@@ -9,6 +9,14 @@
 		padding-left: 18px !important;
 		padding-right: 18px !important;
 	}
+
+	.discussion-sidebar {
+		width: 200px !important;
+	}
+
+	.discussion-timeline {
+		width: calc(100% - 220px) !important;
+	}
 }
 @media (max-width: 840px) {
 	.org-sidebar {
