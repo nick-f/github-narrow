@@ -42,4 +42,10 @@
 	.reponav-item.selected {
 		border-color: #d26911 #e5e5e5 #e5e5e5 !important;
 	}
+
+	/* Profile */
+	.js-calendar-graph{
+		max-width: 100%;
+		overflow: scroll;
+	}
 }
