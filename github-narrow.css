@@ -33,6 +33,24 @@
 		max-width: 100%;
 		overflow: scroll;
 	}
+
+	/* Footer */
+	.site-footer-links.right {
+		float: left !important;
+	}
+
+	.site-footer {
+		text-align: center;
+	}
+
+	.site-footer .octicon-mark-github {
+		top: 12px;
+	}
+
+	.site-footer-links,
+	.site-footer-links.right {
+		float: none !important;
+	}
 }
 
 @media (max-width: 790px) {
