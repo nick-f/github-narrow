@@ -104,4 +104,9 @@
 	.profilecols .column {
 		width: 100% !important;
 	}
+
+	.header-search {
+		width: calc(100% - 46px);
+		margin-bottom: 12px;
+	}
 }
