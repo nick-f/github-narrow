@@ -27,6 +27,12 @@
 	.org-main {
 		width: 100% !important;
 	}
+
+	/* Profile - Contributions */
+	.js-calendar-graph {
+		max-width: 100%;
+		overflow: scroll;
+	}
 }
 
 @media (max-width: 790px) {
@@ -41,12 +47,6 @@
 
 	.reponav-item.selected {
 		border-color: #d26911 #e5e5e5 #e5e5e5 !important;
-	}
-
-	/* Profile */
-	.js-calendar-graph{
-		max-width: 100%;
-		overflow: scroll;
 	}
 
 	.profilecols .column {
