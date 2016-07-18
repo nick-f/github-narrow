@@ -18,6 +18,40 @@
 		width: calc(100% - 220px) !important;
 	}
 }
+
+@media (max-width: 960px) {
+	.org-main {
+		width: 65% !important;
+	}
+
+	/* Profile */
+	.profilecols .one-fourth,
+	.profilecols .three-fourths {
+		width: 100%;
+	}
+
+	.profilecols .vcard-avatar {
+		display: inline-block !important;
+		float: left !important;
+		margin-right: 16px !important;
+	}
+
+	.profilecols .vcard-names {
+		display: inline-block !important;
+	}
+
+	.profilecols .vcard-details,
+	.profilecols .vcard-stats,
+	.profilecols .vcard-stats + .clearfix {
+		display: inline-block;
+		width: calc(100% - 250px);
+	}
+
+	.profilecols .vcard-stats + .clearfix {
+		margin-bottom: 16px;
+	}
+}
+
 @media (max-width: 840px) {
 	.org-sidebar {
 		float: left !important;
