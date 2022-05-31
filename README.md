@@ -1,3 +1,8 @@
+> **Note**
+> 
+> A lot has changed since the project was created and GitHub's design is now more responsive.  
+> This project is no longer needed in 2022 and has been archived.
+
 # Narrow GitHub
 
 Style rules to make GitHub play nicer with narrower viewports.
